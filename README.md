@@ -19,7 +19,7 @@ Include the neural network model diagram.
 ### STEP 3:
 
 Write your own steps
-
+```
 ## PROGRAM
 
 
@@ -92,6 +92,7 @@ plt.show()
 
 from sklearn.metrics import mean_squared_error as mse
 mse(y_test,predicted_stock_price)
+```
 
 ## OUTPUT
 ![image](https://user-images.githubusercontent.com/112486797/194876106-22231627-7bc7-4c9c-a1b3-4999b0e8c957.png)
