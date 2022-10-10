@@ -13,12 +13,16 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Import the necessary tensorflow modules
 
 ### STEP 2:
+load the stock dataset
 
 ### STEP 3:
+Fit the model and train the data
 
-Write your own steps
+## STEP 4 :
+predict the values
 ```
 ## PROGRAM
 
